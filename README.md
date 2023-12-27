@@ -23,6 +23,8 @@ Note: Ensure that necessary permissions are granted for webcam access.
 
 SQLite database: coordinates.db
 Table: coordinates (id, x, y)
+
+
 Author:
 Mladen Angelov
 
