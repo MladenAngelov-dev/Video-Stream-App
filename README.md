@@ -8,11 +8,15 @@ Real-time mouse movement tracking
 Webcam video feed with live streaming
 Capture screenshots by pressing the left mouse button
 Coordinates of the mouse cursor saved to an SQLite database
+
+
 Requirements:
 
 Flask
 OpenCV3
 NumPy
+
+
 How to Use:
 
 Run the application.
