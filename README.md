@@ -12,8 +12,8 @@ Coordinates of the mouse cursor saved to an SQLite database
 
 Requirements:
 
-Flask
-OpenCV3
+Flask,
+OpenCV3,
 NumPy
 
 
@@ -25,8 +25,9 @@ Capture screenshots by visiting /take_screenshot and pressing the left mouse but
 Note: Ensure that necessary permissions are granted for webcam access.
 
 
-SQLite database: coordinates.db
-Table: coordinates (id, x, y)
+SQLite database:  coordinates.db
+
+Table:  coordinates (id, x, y)
 
 
 Author:
