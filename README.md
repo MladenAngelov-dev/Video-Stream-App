@@ -20,12 +20,6 @@ Access the video feed at /video_feed.
 Capture screenshots by visiting /take_screenshot and pressing the left mouse button.
 Note: Ensure that necessary permissions are granted for webcam access.
 
-Installation:
-
-bash
-Copy code
-pip install flask opencv-python numpy
-Database Setup:
 
 SQLite database: coordinates.db
 Table: coordinates (id, x, y)
